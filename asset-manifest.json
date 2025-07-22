@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/OkayNam09.github.io/EatyWonders./static/css/main.bdb5f4c4.css",
+    "main.js": "/OkayNam09.github.io/EatyWonders./static/js/main.c170cbbd.js",
+    "static/media/weather-snow.webp": "/OkayNam09.github.io/EatyWonders./static/media/weather-snow.bdfde7fb2a739a02f4c4.webp",
+    "static/media/weather-icon.webp": "/OkayNam09.github.io/EatyWonders./static/media/weather-icon.12ef6f8d9c53d983db71.webp",
+    "static/media/weather-rain.webp": "/OkayNam09.github.io/EatyWonders./static/media/weather-rain.12ef6f8d9c53d983db71.webp",
+    "static/media/weather-smoke.png": "/OkayNam09.github.io/EatyWonders./static/media/weather-smoke.16c657324e37cd784979.png",
+    "static/media/humidity-icon.png": "/OkayNam09.github.io/EatyWonders./static/media/humidity-icon.ddaec97364be4f585700.png",
+    "static/media/weather-clear.png": "/OkayNam09.github.io/EatyWonders./static/media/weather-clear.5af56c5c8a862e92b831.png",
+    "static/media/weather-drizzle.png": "/OkayNam09.github.io/EatyWonders./static/media/weather-drizzle.9f61284be83e5d678fcf.png",
+    "static/media/weather-mist.webp": "/OkayNam09.github.io/EatyWonders./static/media/weather-mist.405e35a95aaab365a42d.webp",
+    "static/media/weather-clouds.png": "/OkayNam09.github.io/EatyWonders./static/media/weather-clouds.a690a72557a79b9194d6.png",
+    "static/media/wind-icon.png": "/OkayNam09.github.io/EatyWonders./static/media/wind-icon.023428f7e0ab132a5297.png",
+    "index.html": "/OkayNam09.github.io/EatyWonders./index.html",
+    "main.bdb5f4c4.css.map": "/OkayNam09.github.io/EatyWonders./static/css/main.bdb5f4c4.css.map",
+    "main.c170cbbd.js.map": "/OkayNam09.github.io/EatyWonders./static/js/main.c170cbbd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdb5f4c4.css",
+    "static/js/main.c170cbbd.js"
+  ]
+}
